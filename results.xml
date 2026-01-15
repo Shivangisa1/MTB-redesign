@@ -1,0 +1,285 @@
+<testsuites id="" name="" tests="11" failures="4" skipped="0" errors="0" time="246.52879800000002">
+<testsuite name="Marketplace.test.ts" timestamp="2025-12-09T09:40:39.124Z" hostname="" tests="11" failures="4" skipped="0" time="233.031" errors="0">
+<testcase name="Validating the Marketplace features:  › Test Case 1 : Verify the total features machines:" classname="Marketplace.test.ts" time="19.994">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+The total feature machines in MTB are: [33m7[39m
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-a70c6-he-total-features-machines-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-a70c6-he-total-features-machines-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-a70c6-he-total-features-machines-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 2: Verify the total number of featured machines " classname="Marketplace.test.ts" time="16.456">
+<properties>
+<property name="fail" value="">
+</property>
+</properties>
+<failure message="Marketplace.test.ts:26:10 Test Case 2: Verify the total number of featured machines " type="FAILURE">
+<![CDATA[  Marketplace.test.ts:26:10 › Validating the Marketplace features:  › Test Case 2: Verify the total number of featured machines  @fast 
+
+    Expected to fail, but passed.
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\trace.zip
+    Usage:
+
+        npx playwright show-trace ..\test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+The total feature machines in MTB are: [33m7[39m
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\test-failed-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-c02be-umber-of-featured-machines-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 3: Verify the names of featured machines:" classname="Marketplace.test.ts" time="21.172">
+<properties>
+<property name="fail" value="">
+</property>
+</properties>
+<failure message="Marketplace.test.ts:34:10 Test Case 3: Verify the names of featured machines:" type="FAILURE">
+<![CDATA[  Marketplace.test.ts:34:10 › Validating the Marketplace features:  › Test Case 3: Verify the names of featured machines: @slow 
+
+    Expected to fail, but passed.
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\trace.zip
+    Usage:
+
+        npx playwright show-trace ..\test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+Below are the top featured machines:
+
+Machine 1: 2018 Flow Mach 2 1313B
+Machine 2: Haas DS-30SS 2016
+Machine 3: Charmilles CUT 20 2008
+Machine 4: Okuma Genos M560V 2019
+Machine 5: Okuma MA-12500 2014
+Machine 6: Mazak Variaxis i500 2020
+Machine 7: Mazak Integrex i-300S 2020 with Gantry Loader
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\test-failed-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-2206e-names-of-featured-machines-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 4: Verify the total number and name of featured category:" classname="Marketplace.test.ts" time="20.224">
+<properties>
+<property name="fail" value="">
+</property>
+</properties>
+<failure message="Marketplace.test.ts:49:10 Test Case 4: Verify the total number and name of featured category:" type="FAILURE">
+<![CDATA[  Marketplace.test.ts:49:10 › Validating the Marketplace features:  › Test Case 4: Verify the total number and name of featured category: 
+
+    Expected to fail, but passed.
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #3: trace (application/zip) ─────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\trace.zip
+    Usage:
+
+        npx playwright show-trace ..\test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+Total number of featured category machines are: [33m6[39m
+Below are the featured category machines:
+
+Machine 1: Horizontal Machining Centers
+Machine 2: Vertical Machining Centers
+Machine 3: Fabrication
+Machine 4: CNC Lathes Machine
+Machine 5: Laser Machine
+Machine 6: Miscellaneous
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\test-failed-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-89ca7--name-of-featured-category-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 5: Verify the machines by selecting different featured category as horizontal:" classname="Marketplace.test.ts" time="22.035">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+There are total machines if we select horizontal category: (10)
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-9a21b-red-category-as-horizontal-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-9a21b-red-category-as-horizontal-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-9a21b-red-category-as-horizontal-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 6: Verify the machines by selecting different featured category as Vertical:" classname="Marketplace.test.ts" time="20.532">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+There are total machines if we select Vertical category: (0)
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-35dbe-tured-category-as-Vertical-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-35dbe-tured-category-as-Vertical-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-35dbe-tured-category-as-Vertical-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 7: Verify the machines by selecting different featured category as Fabrication:" classname="Marketplace.test.ts" time="19.333">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+There are total machines if we select Vertical category: (0)
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-8b50b-ed-category-as-Fabrication-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-8b50b-ed-category-as-Fabrication-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-8b50b-ed-category-as-Fabrication-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 8: Verify the machines by selecting different featured category as CNC Lathes Machine:" classname="Marketplace.test.ts" time="21.446">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+There are total machines if we select Vertical category: (0)
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-6669c-gory-as-CNC-Lathes-Machine-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-6669c-gory-as-CNC-Lathes-Machine-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-6669c-gory-as-CNC-Lathes-Machine-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 9: Verify the machines by selecting different featured category as Laser Machines:" classname="Marketplace.test.ts" time="19.241">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+There are total machines if we select Vertical category: (0)
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-98515-category-as-Laser-Machines-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-98515-category-as-Laser-Machines-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-98515-category-as-Laser-Machines-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 10: Verify the machines by selecting different featured category as Miscellaneous Machines:" classname="Marketplace.test.ts" time="21.552">
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+There are total machines if we select Vertical category: (0)
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-9a88c--as-Miscellaneous-Machines-\test-finished-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-9a88c--as-Miscellaneous-Machines-\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-9a88c--as-Miscellaneous-Machines-\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Validating the Marketplace features:  › Test Case 11: Verify the detail of featured machine" classname="Marketplace.test.ts" time="31.046">
+<properties>
+<property name="fail" value="">
+</property>
+</properties>
+<failure message="Marketplace.test.ts:111:10 Test Case 11: Verify the detail of featured machine" type="FAILURE">
+<![CDATA[  Marketplace.test.ts:111:10 › Validating the Marketplace features:  › Test Case 11: Verify the detail of featured machine 
+
+    Test timeout of 30000ms exceeded.
+
+    Error: locator.innerText: Test timeout of 30000ms exceeded.
+    Call log:
+      - waiting for locator('.swiper-slide').locator('.machine-detail').locator('h3.amount span')
+
+
+      119 |
+      120 |             const container = feat.locator('.machine-detail');
+    > 121 |             const offerPrice = await container.locator('h3.amount span').innerText();
+          |                                                                          ^
+      122 |             console.log("Basic detail of Machine are as follows: \n")
+      123 |             console.log("Offer Price:", offerPrice);
+      124 |             await page.goBack();
+        at C:\Users\dell\Documents\MTB-POM\tests\Marketplace.test.ts:121:74
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\error-context.md
+
+    attachment #4: trace (application/zip) ─────────────────────────────────────────────────────────
+    ..\test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\trace.zip
+    Usage:
+
+        npx playwright show-trace ..\test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\trace.zip
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+]]>
+</failure>
+<system-out>
+<![CDATA[⚠️ Network never idle — backend slow or infinite requests
+Machine 1: undefined
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\test-failed-1.png]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\video.webm]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\error-context.md]]
+
+[[ATTACHMENT|test-results\Marketplace-Validating-the-971a1--detail-of-featured-machine\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,63 @@
+DOM Loaded Time (DOMContentLoaded Event Time) - Performance testing
+This is the time it takes for the HTML structure (DOM) of the page to load — NOT images, NOT CSS, NOT videos.
+
+When does it fire?
+When browser finishes parsing HTML + building the DOM tree.
+
+📌 What is included?
+
+✔ HTML parsing
+✔ Inline scripts
+✔ Synchronous JS
+
+❌ What is NOT included?
+
+✘ Images
+✘ CSS files
+✘ External scripts
+✘ Videos
+✘ Fonts
+
+🧠 Why is it important?
+
+It shows how fast the skeleton of your page becomes ready.
+
+🕒 Good DOM Loaded Time?
+
+Under 1 second = excellent
+
+1-2 seconds = acceptable
+
+More than 2 seconds = slow
+
+Page Loaded Time (Load Event Time)
+This is the time it takes for the entire page to load, including:
+
+✔ Images
+✔ CSS
+✔ Scripts
+✔ Fonts
+✔ API resources
+✔ iFrames
+✔ All dependent files
+
+When does it fire?
+
+After everything on the page has finished loading.
+
+This is the load event.
+
+🧠 Why is it important?
+
+It shows the real user experience when everything is ready.
+
+🕒 Good Page Load Time?
+
+Under 2-3 seconds = good
+
+3-5 seconds = acceptable
+
+More than 5 seconds = slow
+
+Threshold
+👉 Threshold = Average Time × 2
